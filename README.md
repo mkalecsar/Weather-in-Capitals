@@ -3,4 +3,4 @@
  
 **Technologies Used:**
 1. APIs: Tourist API for city and country data, Weather API for weather details, Free Currency Conversion API for exchange rates.
-2. Responsive Design: Ensures usability across various screen sizes.
+2. Design: Tailwind CSS. Ensures usability across various screen sizes.
